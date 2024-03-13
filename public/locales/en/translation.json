@@ -1,0 +1,35 @@
+{
+    "Inglês" : "English",
+    "Português" : "Portuguese",
+
+    "Portfólio" : "Portfolio",
+    "Sobre" : "About",
+    "Experiência": "Experience",
+    "Projetos" : "Projects",
+    "Contato" : "Contact",
+
+    "Olá, sou a Rafaela" : "Hi, I am Rafaela",
+    "Estudo Ciência da Computação na Universidade Federal Rural do Rio de Janeiro. Sou apaixonada por tecnologia e criei essa página utilizando React!" : "I study Computer Science at the Federal University of Rio de Janeiro. I'm passionate about technology and I created this page using React!",
+    "Entre em contato" : "Get in touch",
+
+    "Sobre mim" : "About me",
+    "Desenvolvedora Front-end" : "Front-end Developer",
+    "Já desenvolvi dois websites comercialmente, um deles foi o jornal da minha universidade." : "I have already developed two websites commercially, one of which was my university newspaper.",
+    "CyberSegurança" : "CyberSecurity",
+    "Possuo certificado de CyberSegurança do Google, IBM e da Microsoft. Os cursos abordam tecnologias como SQL e Python." : "I have a CyberSecurity certificate from Google, IBM and Microsoft. The courses cover technologies such as SQL and Python.",
+
+    "Recepcionista Trilíngue, Jardim Botânico do RJ" : "Trilingual Receptionist, Botanical Garden of RJ",
+    "Atendimento em inglês e espanhol" : "Service in English and Spanish",
+    "Comunicação com pessoas do mundo inteiro" : "Communication with people from all over the world",
+    "Fev,2024 - Presente" : "Feb, 2024, Present",
+
+    "Fev,2023 - Mai,2023" : "Feb,2023 - May,2023",
+    "Residente em Front-end, iUUL" : "Front-end residency, iUUL",
+    "Primeiro contato com o React" : "First contact with React",
+    "Utilização de API e ferramente de teste" : "API and testing tool usage",
+
+    "Esse projeto foi feito para o jornal da universidade" : "This project was made for the university newspaper",
+    "Fonte" : "Source",
+
+    "Fique à vontade para entrar em contato!" : "Feel free to reach out!"
+}

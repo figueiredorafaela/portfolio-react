@@ -1,0 +1,36 @@
+{
+    "Inglês" : "Inglês",
+    "Português" : "Português",
+
+    "Portfólio" : "Portfólio",
+    "Sobre" : "Sobre",
+    "Experiência": "Experiência",
+    "Projetos" : "Projetos",
+    "Contato" : "Contato",
+
+    "Olá, sou a Rafaela" : "Olá, sou a Rafaela",
+    "Estudo Ciência da Computação na Universidade Federal Rural do Rio de Janeiro. Sou apaixonada por tecnologia e criei essa página utilizando React!" : "Estudo Ciência da Computação na Universidade Federal Rural do Rio de Janeiro. Sou apaixonada por tecnologia e criei essa página utilizando React!",
+    "Entre em contato" : "Entre em contato",
+
+    "Sobre mim" : "Sobre mim",
+    "Desenvolvedora Front-end" : "Desenvolvedora Front-end",
+    "Já desenvolvi dois websites comercialmente, um deles foi o jornal da minha universidade." : "Já desenvolvi dois websites comercialmente, um deles foi o jornal da minha universidade.",
+    "CyberSegurança" : "CyberSegurança",
+    "Possuo certificado de CyberSegurança do Google, IBM e da Microsoft. Os cursos abordam tecnologias como SQL e Python." : "Possuo certificado de CyberSegurança do Google, IBM e da Microsoft. Os cursos abordam tecnologias como SQL e Python.",
+
+    "Recepcionista Trilíngue, Jardim Botânico do RJ" : "Recepcionista Trilíngue, Jardim Botânico do RJ",
+    "Fev,2024 - Presente" : "Fev, 2024, Presente",
+    "Atendimento em inglês e espanhol" : "Atendimento em inglês e espanhol",
+    "Comunicação com pessoas do mundo inteiro" : "Comunicação com pessoas do mundo inteiro",
+    
+    "Residente em Front-end, iUUL" : "Residente em Front-end, iUUL",
+    "Fev,2023 - Mai,2023" : "Fev,2023 - Mai,2023",
+    "Primeiro contato com o React" : "Primeiro contato com o React",
+    "Utilização de API e ferramente de teste" : "Utilização de API e ferramente de teste",
+
+    "Esse projeto foi feito para o jornal da universidade" : "Esse projeto foi feito para o jornal da universidade",
+    "Fonte" : "Fonte",
+
+    "Fique à vontade para entrar em contato!" : "Fique à vontade para entrar em contato!"
+}
+

@@ -1,0 +1,24 @@
+@import "./vars.css";
+
+.App{
+    background-color: var(--color-bg);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.container {
+    position: absolute;
+    z-index: 3;
+  }
+   
+.container select{
+    background: transparent;
+    color: var(--color-text);
+}
+
+.container select:hover {
+    background: white;
+    color: black;
+}
+

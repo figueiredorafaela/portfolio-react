@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Recepcionista Trilíngue",
+      "organisation": "Jardim Botânico do RJ",
+      "startDate": "Fev, 2024",
+      "endDate": "Presente",
+      "experiences": ["Atendimento em inglês e espanhol", "Comunicação com pessoas do mundo inteiro"],
+      "imageSrc": "history/jbrj.png"
+    },
+    {
+      "role": "Residente Front-end",
+      "organisation": "iUUL",
+      "startDate": "Jan, 2023",
+      "endDate": "Mai, 2023",
+      "experiences": ["Tive meu primeiro contato com Angular", "Utilizei API's"],
+      "imageSrc": "history/iuul.png"
+    }
+]

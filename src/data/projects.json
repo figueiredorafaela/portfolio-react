@@ -1,0 +1,10 @@
+[
+    {
+      "title": "The Rural Times IM",
+      "imageSrc": "projects/tht.png",
+      "description": "Esse projeto foi feito para o jornal da universidade UFRRJ.",
+      "skills": ["Wordpress"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
