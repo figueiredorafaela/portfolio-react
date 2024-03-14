@@ -26,11 +26,11 @@ export const Project = () => {
                         </li>    
                     </ul>
                     <div className={styles.links}>
-                        <a className={styles.link} href="/"  target="_blank">
+                        <a className={styles.link} href="https://theruraltimesjornal.com/"  target="_blank">
                             Demo
                         </a>
-                        <a className={styles.link} href="/" target="_blank">
-                            {t('Fonte')} 
+                        <a className={styles.link} href="https://www.canva.com/design/DAF59DzceHs/Y4mV5H5IE0u5MEHEbY1rCQ/edit?utm_content=DAF59DzceHs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+                            {t('Design')} 
                         </a>
                     </div>
                 </div>     
