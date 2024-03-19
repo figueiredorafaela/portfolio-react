@@ -18,7 +18,7 @@ export const Project = () => {
                         {t('The Rural Times')}
                     </h3>
                     <p className={styles.description}>
-                        {t('Esse projeto foi feito para o jornal da universidade')}
+                        {t('Esse projeto foi feito com base no design apresentado pela equipe do jornal da universidade')}
                     </p>
                     <ul className={styles.skills}>
                         <li className={styles.skill}>
