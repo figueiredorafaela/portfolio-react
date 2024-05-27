@@ -33,6 +33,34 @@ export const Project = () => {
                             {t('Design')} 
                         </a>
                     </div>
+                </div>
+                <div className={styles.containerCard}>
+                    <img className={styles.image} src={getImageUrl("projects/musicplayer.png")} />
+                    <h3 className={styles.titleCard}>
+                        {t('Mini tocador de música')}
+                    </h3>
+                    <p className={styles.description}>
+                        {t('Esse projeto é um mini tocador de música')}
+                    </p>
+                    <ul className={styles.skills}>
+                        <li className={styles.skill}>
+                            {t('HTML')}
+                        </li>
+                        <li className={styles.skill}>
+                            {t('CSS')}
+                        </li>
+                        <li className={styles.skill}>
+                            {t('JavaScript')}
+                        </li>    
+                    </ul>
+                    <div className={styles.links}>
+                        <a className={styles.link} href="https://musica-tocador.netlify.app"  target="_blank">
+                            Demo
+                        </a>
+                        <a className={styles.link} href="https://github.com/figueiredorafaela/music-player">
+                            {t('Código')} 
+                        </a>
+                    </div>
                 </div>     
             </div>
         </section>
