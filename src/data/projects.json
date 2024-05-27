@@ -6,5 +6,13 @@
       "skills": ["Wordpress"],
       "demo": "https://www.theruraltimesjornal.com",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Tocador de música",
+      "imageSrc": "projects/musicplayer1.png",
+      "description": "Esse projeto é um tocador de música'",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://musica-tocador.netlify.app",
+      "source": "https://github.com/figueiredorafaela/music-player"
     }
   ]
