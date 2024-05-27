@@ -37,7 +37,7 @@ export const Project = () => {
                 <div className={styles.containerCard}>
                     <img className={styles.image} src={getImageUrl("projects/musicplayer1.png")} />
                     <h3 className={styles.titleCard}>
-                        {t('Mini tocador de música')}
+                        {t('Tocador de música')}
                     </h3>
                     <p className={styles.description}>
                         {t('Esse projeto é um mini tocador de música')}
